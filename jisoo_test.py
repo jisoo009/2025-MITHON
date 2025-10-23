@@ -3,3 +3,4 @@ print("jisoo test")
 똥 = 10
 
 print(야 + 똥)
+print(test)
